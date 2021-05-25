@@ -35,7 +35,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=AUC
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: 'This package includes functions to compute the area under the curve of selected measures:
     The area under the sensitivity curve (AUSEC), the area under the specificity curve
     (AUSPC), the area under the accuracy curve (AUACC), and the area under the receiver
