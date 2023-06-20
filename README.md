@@ -1,11 +1,11 @@
-About r-auc
-===========
+About r-auc-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-auc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=AUC
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-auc-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package includes functions to compute the area under the curve of selected measures: The area under the sensitivity curve (AUSEC), the area under the specificity curve (AUSPC), the area under the accuracy curve (AUACC), and the area under the receiver operating characteristic curve (AUROC). The curves can also be visualized. Support for partial areas is provided.
 
